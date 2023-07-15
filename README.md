@@ -22,8 +22,8 @@
 <div style="display: flex; justify-content: center; align-items: center; align-items: center; flex-wrap: wrap;">
   <h2 align="center">Sample Demo Screenshots</h2>
 
-  <img src="images/Portfolio-1.png" alt="Portfolio-1 Demo" title="Desktop Demo" width="350px">
-  <img src="images/Portfolio-2.png" alt="Portfolio-2" title="Desktop Demo" width="350px">
+  <img src="images/Portfolio-1.png" alt="Portfolio-1 Demo" title="Desktop Demo" width="250px">
+  <img src="images/Portfolio-2.png" alt="Portfolio-2" title="Desktop Demo" width="250px">
 </div>
 
 <h2 align="center">Prerequisites</h2>
