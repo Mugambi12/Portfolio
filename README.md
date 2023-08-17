@@ -1,11 +1,9 @@
-<h1 align="center">Portfolio</h1>
-
-<div align="center"> 
-  <h3>Project Details and Links</h3>
+<div> 
+  <h3 align="center">Project Details and Links</h3>
 
   <p>These projects are freely available for use in building a website. They are responsive for all devices and built using HTML, CSS, and JavaScript.</p>
 
-  <h3>Portfolios</h3>
+  <h3 align="center">Portfolios</h3>
 
   <ul>
     <li><a href="Portfolio-1/index.html">Portfolio-1</a> - This is a simple static website that showcases my work and skills.</li>
