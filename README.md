@@ -10,18 +10,18 @@
   <ul align="left">
     <li><a href="Portfolio-1/index.html">Portfolio-1</a></li>
     - This is a simple static website that showcases my work and skills.
-      <div style="display: flex; justify-content: center; align-items: center; align-items: center; flex-wrap: wrap;">
-        <h2 align="center">Portfolio 1 Demo Screenshots</h2>
-      
-        <img src="images/Portfolio-1.png" alt="Portfolio-1 Demo" title="Desktop Demo" width="350px">
-      </div>
+<div style="display: flex; justify-content: center; align-items: center; align-items: center; flex-wrap: wrap;">
+  <h2 align="center">Portfolio 1 Demo Screenshots</h2>
+
+  <img src="images/Portfolio-1.png" alt="Portfolio-1 Demo" title="Desktop Demo" width="350px">
+</div>
     <li><a href="Portfolio-2/index.html">Portfolio-2</a></li>
     - This is a dynamic modern portfolio website with interactive features and a responsive design.
-      <div style="display: flex; justify-content: center; align-items: center; align-items: center; flex-wrap: wrap;">
-        <h2 align="center">Portfolio 1 Demo Screenshots</h2>
+<div style="display: flex; justify-content: center; align-items: center; align-items: center; flex-wrap: wrap;">
+  <h2 align="center">Portfolio 1 Demo Screenshots</h2>
 
-        <img src="images/Portfolio-2.png" alt="Portfolio-2" title="Desktop Demo" width="350px">
-      </div>
+  <img src="images/Portfolio-2.png" alt="Portfolio-2" title="Desktop Demo" width="350px">
+</div>
   </ul>
 
   <a href="https://mugambi12.github.io/Portfolio"><strong>➥ Live Demo / My Portfolio Projects</strong></a>
