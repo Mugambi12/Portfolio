@@ -1,26 +1,32 @@
-<div> 
+<div>
   <h3 align="center">Project Details and Links</h3>
 
   <p>These projects are freely available for use in building a website. They are responsive for all devices and built using HTML, CSS, and JavaScript.</p>
 
   <h3 align="center">Portfolios</h3>
 
-  <ul>
-    <li><a href="Portfolio-1/index.html">Portfolio-1</a> - This is a simple static website that showcases my work and skills.</li>
+  <ol>
+    <li><a href="Portfolio-1/index.html"><h4>Simple Portfolio</h4></a></li>
+    - This is a simple static website that showcases my work and skills.
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-      <h4 align="center">Portfolio 1 Demo Screenshots</h4>
-
+      <h4 align="center">Screenshots Demo</h4>
       <img src="images/Portfolio-1.png" alt="Portfolio-1 Demo" title="Desktop Demo" width="350px">
+      <br>
+      <a href="Portfolio-1/index.html">View This Portfolio</a>
     </div>
-    <li><a href="Portfolio-2/index.html">Portfolio-2</a> - This is a dynamic modern portfolio website with interactive features and a responsive design.</li>
+    <li><a href="Portfolio-2/index.html"><h4>Dynafic Portfolio</h4></a></li>
+    - This is a dynamic modern portfolio website with interactive features and a responsive design.
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-      <h4 align="center">Portfolio 2 Demo Screenshots</h4>
-
+      <h4 align="center">Screenshots Demo</h4>
       <img src="images/Portfolio-2.png" alt="Portfolio-2 Demo" title="Desktop Demo" width="350px">
+      <br>
+      <a href="Portfolio-2/index.html">View This Portfolio</a>
     </div>
-  </ul>
+  </ol>
 
-  <a href="https://mugambi12.github.io/Portfolio"><strong>➥ Live Demo / My Portfolio Projects</strong></a>
+  <div align="center">
+    <a href="https://mugambi12.github.io/Portfolio"><strong>➥ Live Demo / My Portfolio Projects</strong></a>
+  </div>
 </div>
 
 
@@ -49,3 +55,5 @@ git clone https://github.com/Mugambi12/Portfolio.git
 #### License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
