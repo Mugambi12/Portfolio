@@ -10,20 +10,20 @@
   <ol>
     <li><a href="Portfolio-1/index.html"><h4>Simple Portfolio</h4></a></li>
     - This is a simple static website that showcases my work and skills.
+    <h4 align="center" width="100%">Screenshots Demo</h4>
     <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-      <h4 align="center" width="100%">Screenshots Demo</h4>
       <img src="images/Portfolio-1.png" alt="Portfolio-1 Demo" title="Desktop Demo" width="350px">
-      <br>
-      <a href="Portfolio-1/index.html" width="100%">View This Portfolio</a>
     </div>
+    <br>
+    <a href="Portfolio-1/index.html" width="100%">View This Portfolio</a>
     <li><a href="Portfolio-2/index.html"><h4>Dynafic Portfolio</h4></a></li>
     - This is a dynamic modern portfolio website with interactive features and a responsive design.
+    <h4 align="center" width="100%">Screenshots Demo</h4>
     <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-      <h4 align="center" width="100%">Screenshots Demo</h4>
       <img src="images/Portfolio-2.png" alt="Portfolio-2 Demo" title="Desktop Demo" width="350px">
-      <br>
-      <a href="Portfolio-2/index.html" width="100%">View This Portfolio</a>
     </div>
+    <br>
+    <a href="Portfolio-2/index.html" width="100%">View This Portfolio</a>
   </ol>
 
   <div align="center">
