@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio</h1>
 
-<div align="center">
+<div align="center"> 
   <h3>Project Details and Links</h3>
 
   <p>These projects are freely available for use in building a website. They are responsive for all devices and built using HTML, CSS, and JavaScript.</p>
